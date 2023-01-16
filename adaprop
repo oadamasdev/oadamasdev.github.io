@@ -1,0 +1,5 @@
+let propadamasa = "<div class='linksflex ban1'><a href='#'><div class='linksimg enderecos'><span style='color:blue;'>IMAGEM A</span></div></a><div class='linksdesc' >MageTV<br /><a href='#'><span class='anuwz'>WhatsApp</span></a> - <a href='#'><span class='anusite'>Site</span></a><br /><a href='#' class='anudetal'>+ Detalhes sobre...</a></div></div>";
+
+let propadamasb = "<div class='linksflex ban2'><a href='#'><div class='linksimg enderecos'><span style='color:blue;'>IMAGEM B</span></div></a><div class='linksdesc' >JeanXD<br /><a href='#'><span class='anuwz'>WhatsApp</span></a><br /><a href='#' class='anudetal'>+ Detalhes sobre...</a></div></div>";
+
+document.getElementById("propagandas").innerHTML = "<div class='flexdiv'><div style='text-align:center; width:100%; font-weight: bold; background: #000; color: yellow; padding: 10px 5px; border-radius: 3px;'>COMPRE KKC (KAKELE COINS) COM OS REVENDEDORES OFICIAIS:</div><br /><div class='flexcont'>" + propadamasa + propadamasb + "</div></div>" ;
