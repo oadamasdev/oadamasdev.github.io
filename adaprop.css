@@ -1,0 +1,305 @@
+.flexdiv {
+
+	width: 100%;	padding: 0px;
+
+	display: flex;
+
+	justify-content: center;
+
+	flex-wrap: wrap;
+
+}
+
+/* conteudo flex */
+
+.flexcont {
+
+	width: 100%;
+
+	font-family: sans-serif;
+
+	display: flex;
+
+	justify-content: center;
+
+	flex-wrap: wrap;
+
+	border: 1px solid;
+
+}
+
+.flexcont .linksflex {
+
+	width: 150px;
+
+	height: 260px;
+
+	margin: 10px 5px;
+
+	border-radius: 3px;
+
+	transition: 1s;
+
+	border-radius: 3px;
+
+	border: 1px solid #dddddd;
+
+	transition: 1s;
+
+	overflow: hidden;
+
+}
+
+.flexcont .linksflex:hover {
+
+	transition: 1s;
+
+	box-shadow: 0px 0px 1px #000000, 0px 0px 2px #000000, 0px 0px 3px #000000, 0px 0px 5px #000000, 0px 0px 6px #000000, 0px 0px 7px #000000;
+
+}
+
+/* links flex imagem e descricao */
+
+.flexcont .linksimg {
+
+	width: 150px;
+
+	height: 190px;
+
+	margin: 0px;
+
+	padding: 0px;
+
+	overflow: hidden;
+
+}
+
+/* endereco */
+
+.linksflex .enderecos {/*
+
+	background: url(https://live.staticflickr.com/65535/51741649637_84bed26d54_o.jpg);
+
+	background-size: 100%;
+
+	background-size: cover;
+
+	background-repeat: no-repeat;*/
+
+}
+
+/* descricao */
+
+.flexcont .linksdesc {
+
+	width: 150px;
+
+	height: 60px;
+
+	overflow: hidden;
+
+	line-height: 20px;
+
+	padding: 5px 0px;
+
+	margin: 0px auto;
+
+	font-size: 8pt;
+
+	font-weight: bold;
+
+	text-align: center;
+
+	background: #eeeeee;
+
+}
+
+.anuwz {
+
+background: #afa; 
+
+color: #050;
+
+padding: 2px 5px;
+
+border: #050 1px solid;
+
+border-radius: 3px;
+
+}
+
+.anusite {
+
+background: #aff; 
+
+color: #00f;
+
+padding: 2px 5px;
+
+border: #00f 1px solid;
+
+border-radius: 3px;
+
+}
+
+.anudetal {} 
+
+.flexdiv a {text-decoration:none;} 
+
+.flexdiv .anudetal {text-decoration: underline;} 
+
+@media screen and (min-width: 600px) {
+
+.flexdiv {
+
+	width: 100%;
+
+	padding: 0px;
+
+	display: flex;
+
+	justify-content: center;
+
+	flex-wrap: wrap;
+
+}
+
+/* conteudo flex */
+
+.flexcont {
+
+	width: 100%;
+
+	font-family: sans-serif;
+
+	display: flex;
+
+	justify-content: center;
+
+	flex-wrap: wrap;
+
+	border: 1px solid;
+
+}
+
+.flexcont .linksflex {
+
+	width: 280px;
+
+	height: 270px;
+
+	margin: 10px 5px;
+
+	border-radius: 3px;
+
+	transition: 1s;
+
+	border-radius: 3px;
+
+	border: 1px solid #dddddd;
+
+	transition: 1s;
+
+	overflow: hidden;
+
+}
+
+.flexcont .linksflex:hover {
+
+	transition: 1s;
+
+	box-shadow: 0px 0px 1px #000000, 0px 0px 2px #000000, 0px 0px 3px #000000, 0px 0px 5px #000000, 0px 0px 6px #000000, 0px 0px 7px #000000;
+
+}
+
+/* links flex imagem e descricao */
+
+.flexcont .linksimg {
+
+	width: 280px;
+
+	height: 200px;
+
+	margin: 0px;
+
+	padding: 0px;
+
+	overflow: hidden;
+
+}
+
+/* endereco */
+
+.linksflex .enderecos {/*
+
+	background: url(https://live.staticflickr.com/65535/51741649637_84bed26d54_o.jpg);
+
+	background-size: 100%;
+
+	background-size: cover;
+
+	background-repeat: no-repeat;*/
+
+}
+
+/* descricao */
+
+.flexcont .linksdesc {
+
+	width: 280px;
+
+	height: 60px;
+
+	overflow: hidden;
+
+	line-height: 20px;
+
+	padding: 5px 0px;
+
+	margin: 0px auto;
+
+	font-size: 8pt;
+
+	font-weight: bold;
+
+	text-align: center;
+
+	background: #eeeeee;
+
+}
+
+.anuwz {
+
+background: #afa; 
+
+color: #050;
+
+padding: 2px 5px;
+
+border: #050 1px solid;
+
+border-radius: 3px;
+
+}
+
+.anusite {
+
+background: #aff; 
+
+color: #00f;
+
+padding: 2px 5px;
+
+border: #00f 1px solid;
+
+border-radius: 3px;
+
+}
+
+.anudetal {} 
+
+.flexdiv a {text-decoration:none;} 
+
+.flexdiv .anudetal {text-decoration: underline;} 
+
+}
