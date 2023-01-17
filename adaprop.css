@@ -22,7 +22,7 @@
 	border-radius: 3px;
 	transition: 1s;
 	border-radius: 3px;
-	background: #eeeeee;
+	background: #eeeeee!important;
 	border: 1px solid #dddddd;
 	transition: 1s;
 	overflow: hidden;
@@ -110,6 +110,7 @@ border-radius: 3px;
 	border-radius: 3px;
 	transition: 1s;
 	border-radius: 3px;
+	background: #eeeeee!important;
 	border: 1px solid #dddddd;
 	transition: 1s;
 	overflow: hidden;
