@@ -2,5 +2,5 @@ let propadamasb = "<div class='linksflex ban1'><a href='https://lojakakele.com.b
 
 let propadamasa = "<div class='linksflex ban2'><a href='https://wa.me/+5584987524156?text=JeanXD'><div class='linksimg propjean'><span style='color:blue;'></span></div></a><div class='linksdesc' >JeanXD<br /><a href='https://wa.me/+5584987524156?text=JeanXD' target='_blank'><span class='anuwz'>WhatsApp</span></a><br /><a href='https://adamaskakele.blogspot.com/p/jeanxd.html' class='anudetal'>+ Detalhes sobre...</a></div></div>";
 
-document.getElementById("propagandas").innerHTML = "<div class='flexdiv'><div style='text-align:center; width:100%; font-weight: bold; background: #000; color: yellow; padding: 10px 5px; border-radius: 3px;'>COMPRE KKC (KAKELE COINS) COM OS REVENDEDORES OFICIAIS:</div><br /><div class='flexcont'>" + propadamasa + propadamasb +  "</div></div>" ;
+document.getElementById("propagandas").innerHTML = "<div class='flexdiv'><div style='text-align:center; width:100%; font-weight: bold; background: #000; color: yellow; padding: 10px 5px; border-radius: 3px;'>COMPRE KKC (KAKELE COINS) COM OS REVENDEDORES OFICIAIS:</div><br /><div class='flexcont'>" + propadamasb + propadamasa +  "</div></div>" ;
 
